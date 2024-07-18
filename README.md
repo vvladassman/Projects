@@ -3,11 +3,11 @@
  <p>These are some important projects that i created, there's also a web-dev folder with all different excercises i have done about full stack development</p>
  <hr>
  <h2>Photos</h2>
- <p>these are some of my most important projects,
-  in order to run:
-  -Required node.js
-  -npm i (using git bash terminal inside folder)
-  -node index.js (execute using bash)
+ <p>these are some of my most important projects,<br>
+  in order to run:<br><br>
+  -Required node.js<br>
+  -npm i (using git bash terminal inside folder)<br>
+  -node index.js (execute using bash)<br>
 </p>
  <strong>bootstrap project 1:</strong>
  <img src="/Photos/Img1preview.PNG" ">

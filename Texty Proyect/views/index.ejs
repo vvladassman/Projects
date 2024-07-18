@@ -1,0 +1,47 @@
+<%- include("partials/head.ejs") %>
+<body>
+    <form method="post">
+    <div class="MainPage">
+        <div>
+            <h1 class="title MainTitle">Texty.</h1>
+            <h2  id="SubTitle">Your personal blog</h2>
+    
+        </div>
+        <div class="inputForm">
+            <div class="Text1">
+            
+                <h3 class="text">Write something here...</h3>
+           
+            </div>
+            <div class="Text2">
+            
+                <h3 class="text error"><%= error %></h3>
+           
+            </div>
+          
+            <div class="Input1">
+            <textarea name="content" class="FitInSize" ></textarea>
+            </div>
+            <div class="Input2" >
+            <input name="password" type="text" class="FitInSize Styling1" placeholder="Write your signature here... (Password)">
+            </div>
+            <div class="Input3" >
+            <input name="title" type="text" class="FitInSize Styling1" placeholder="Post title">
+            </div>
+            <div class="Input4" >
+            <input type="submit" class="FitInSize Styling1" value="Post/Edit" formaction="/PostEdit">
+            </div>
+            
+        </div>
+    </form>
+    
+    
+
+    
+    </div>
+    <%- include("partials/posts.ejs") %>
+    
+         
+    <%- include("partials/footer.ejs") %>
+</body>
+</html>

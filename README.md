@@ -4,6 +4,10 @@
  <hr>
  <h2>Photos</h2>
  <p>these are some of my most important projects,
+  in order to run:
+  -Required node.js
+  -npm i (using git bash terminal inside folder)
+  -node index.js (execute using bash)
 </p>
  <strong>bootstrap project 1:</strong>
  <img src="/Photos/Img1preview.PNG" ">
@@ -23,4 +27,4 @@
      <br>
  <strong>Requests test using REST API with axios:</strong>
  <img src="/Photos/Img4preview.PNG"">
-
+<br>

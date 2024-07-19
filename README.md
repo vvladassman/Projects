@@ -15,11 +15,11 @@
  <strong>bootstrap project 2:</strong>
  <img src="/Photos/Img2preview.PNG" ">
   <br>
- <strong>Using REST API with Axios to get hold of random secrets:</strong>strong>
+ <strong>Using REST API with Axios to get hold of random secrets:</strong>
  <img src="/Photos/Img3preview.PNG" style="width:900px;">
   <img src="/Photos/Img32preview.PNG" style="width:900px;">
    <br>
- <strong>A web blog with node.js express.js and EJS:</strong>strong>
+ <strong>A web blog with node.js express.js and EJS:</strong>
  <img src="/Photos/Img5preview.PNG" style="width:900px;">
   <img src="/Photos/Img6preview.PNG" style="width:900px;">
    <img src="/Photos/Img7preview.PNG" style="width:900px;">

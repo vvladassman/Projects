@@ -23,8 +23,9 @@
  <strong>bootstrap project 2:</strong>
  <img src="/Photos/Img2preview.PNG" ">
   <br>
- in order to run:<br><br>
+  <hr>
+ <h2>in order to run:<br> </h2>
   -Required node.js<br>
   -npm i (using git bash terminal inside folder)<br>
   -node index.js (execute using bash)<br>
- <hr>
+ 

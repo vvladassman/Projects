@@ -17,8 +17,6 @@
  <strong>Requests test using REST API with axios:</strong>
  <img src="/Photos/Img4preview.PNG"">
 <br>
-
-
  <strong>bootstrap project 1:</strong>
  <img src="/Photos/Img1preview.PNG" ">
  <br>

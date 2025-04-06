@@ -1,11 +1,6 @@
 
  <h1>Vlad Assman's Projects</h1>
  <p>These are some important projects that i created, there's also a web-dev folder with all different excercises i have done about full stack development</p>
- in order to run:<br><br>
-  -Required node.js<br>
-  -npm i (using git bash terminal inside folder)<br>
-  -node index.js (execute using bash)<br>
- <hr>
  <h2>Photos</h2>
  <p>these are some of my most important projects,
 </p>
@@ -28,3 +23,8 @@
  <strong>Requests test using REST API with axios:</strong>
  <img src="/Photos/Img4preview.PNG"">
 <br>
+in order to run:<br><br>
+  -Required node.js<br>
+  -npm i (using git bash terminal inside folder)<br>
+  -node index.js (execute using bash)<br>
+ <hr>
